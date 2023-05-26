@@ -1,5 +1,7 @@
-const contentLetterSrart_actived = "Hãy nói gì đó ở đây trước khi người ấy mở bức thư nhé." //Lời mở đầu cho bức thư
-const mainContentLetter = "Gửi lời nhắn nhủ đến người bạn bạn yêu thương." //Nội dung của bức thư
+const contentLetterSrart_actived = "Thông tấn xã tình yêu xin thông báo, chủ thuê bao 0395664479
+ vừa nhận được 1 lời chúc mừng sinh nhật từ thuê bao 0399082098." //Lời mở đầu cho bức thư
+const mainContentLetter = "Tin nhắn này không có chất béo, không cholesterol và không chứa chất gây nghiện, nó chỉ có rất nhiều đường mà thôi. 
+Nhưng dù nhiều đường thế nào đi chăng nữa nó cũng không bao giờ có thể ngọt ngào như bạn – người đang đọc nó. Chúc bà sinh nhật hạnh phúc và tràn đầy tiếng cười nha!." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
