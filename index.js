@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "Thông tấn xã tình yêu xin thông báo, chủ thuê bao 0862 340 627 vừa nhận được 1 lời chúc mừng sinh nhật từ thuê bao 0399082098 ." //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "Thông tấn xã tình yêu xin thông báo,chủ thuê bao 0862 340 627 vừa nhận được 1 lời chúc mừng sinh nhật từ thuê bao 0399082098 ." //Lời mở đầu cho bức thư
 const mainContentLetter = "Chúc mừng sinh nhật nhé cố gái tháng 12!Chúc pé luôn xinh đẹp và rạng rỡ.Chúc cho cuộc sống của pé luôn tràn ngập niềm vui và tiếng cười.Chúc cho những ước nguyện của pé sớm thành hiện thực.Chúc pé tìm được người trân trọng và yêu thương pé.Cuối cùng chúc pé sức khỏe dồi dào và muốn gì được nấy. CHúc pé một đời bình an và hạnh phúc❤️." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
